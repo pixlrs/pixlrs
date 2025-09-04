@@ -8,7 +8,7 @@ I mainly work in data analysis in the area of data traffic
 
 * 🌍  I'm based in United Kingdom
 * 🖥️  See my portfolio at [Repositories](http://github.com/pixlrs?tab=repositories)
-* ✉️  You can contact me at [ben@rekade.ltd](mailto:ben@rekade.ltd)
+* ✉️  You can contact me at [admin@xdp.lol](mailto:admin@xdp.lol)
 * 🚀  I’m currently working on XDP/eBPF and network monitoring.
 
 ### Skills
